@@ -17,3 +17,18 @@ Learning about glassmorphism through a project with html and css.
 - html
 - css
 
+## Getting Started
+
+No dependencies need to be installed, as this project is only built with html and css.
+
+## Usage
+
+- banners on websites
+- my linkedin banner
+- template for future use cases
+
+## Roadmap
+
+- remove spheres
+- update text and design
+- change background color
