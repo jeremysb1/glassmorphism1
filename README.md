@@ -30,5 +30,6 @@ No dependencies need to be installed, as this project is only built with html an
 ## Roadmap
 
 - remove spheres
-- update text and design
+- add icons in background
+- update text and form color
 - change background color
