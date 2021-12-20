@@ -45,7 +45,7 @@ body {
 form {
     height: 300px;
     width: 500px;
-    background-color: rgba(255,255,255,0.13);
+    background-color: rgb(204, 240, 238);
     position: absolute;
     transform: translate(-50%,-50%);
     top: 50%;
@@ -59,7 +59,7 @@ form {
 
 form * {
     font-family: 'Poppins',sans-serif;
-    color: #ffffff;
+    color: #000000;
     letter-spacing: 0.5px;
     outline: none;
     border: none;
