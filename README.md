@@ -10,7 +10,7 @@ Table of Contents
 
 ## About the Project
 
-Learning about glassmorphism through a project with html and css.
+Learning glassmorphism through a project with html and css.
 
 ## Technologies Used
 
@@ -19,12 +19,14 @@ Learning about glassmorphism through a project with html and css.
 
 ## Getting Started
 
-No dependencies need to be installed, as this project is only built with html and css.
+This project is only built with html and css.
+
+Fork a copy or clone with SSH into your own local environment.
 
 ## Usage
 
-- banners on websites
-- my linkedin banner
+- design assets for websites
+- linkedin banner
 - template for future use cases
 
 ## Roadmap
